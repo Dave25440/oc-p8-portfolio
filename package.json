@@ -1,7 +1,7 @@
 {
   "name": "portfolio",
   "version": "0.1.0",
-  "homepage": "https://dave25440.github.io/david-hores-portfolio",
+  "homepage": "https://dave25440.github.io/oc-p8-portfolio",
   "private": true,
   "dependencies": {
     "@emailjs/browser": "^4.4.1",

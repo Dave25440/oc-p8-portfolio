@@ -5,18 +5,15 @@ const Header = () => {
     const location = useLocation();
     const pathname = location.pathname;
     const paths = [
-        "/david-hores-portfolio/realisations",
-        "/david-hores-portfolio/competences",
-        "/david-hores-portfolio/contact"
+        "/oc-p8-portfolio/realisations",
+        "/oc-p8-portfolio/competences",
+        "/oc-p8-portfolio/contact"
     ];
 
     return (
         <header className={styles.header}>
             <h1 className={styles.header__title}>
-                <Link
-                    to="/david-hores-portfolio"
-                    className={styles.header__home}
-                >
+                <Link to="/oc-p8-portfolio" className={styles.header__home}>
                     David Horès
                 </Link>
             </h1>

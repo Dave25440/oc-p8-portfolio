@@ -24,8 +24,8 @@ const Card = ({ id, color, title, subtitle, tags }) => {
         <Link
             to={
                 id
-                    ? `/david-hores-portfolio/realisations/${id}`
-                    : `/david-hores-portfolio/parcours`
+                    ? `/oc-p8-portfolio/realisations/${id}`
+                    : `/oc-p8-portfolio/parcours`
             }
             className={styles.card}
             style={{ backgroundColor: color }}

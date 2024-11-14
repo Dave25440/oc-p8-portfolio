@@ -13,25 +13,25 @@ const AppRouter = () => {
         <Router>
             <Layout>
                 <Routes>
-                    <Route path="/david-hores-portfolio" element={<Home />} />
+                    <Route path="/oc-p8-portfolio" element={<Home />} />
                     <Route
-                        path="/david-hores-portfolio/realisations"
+                        path="/oc-p8-portfolio/realisations"
                         element={<Projects />}
                     />
                     <Route
-                        path="/david-hores-portfolio/competences"
+                        path="/oc-p8-portfolio/competences"
                         element={<Skills />}
                     />
                     <Route
-                        path="/david-hores-portfolio/contact"
+                        path="/oc-p8-portfolio/contact"
                         element={<Contact />}
                     />
                     <Route
-                        path="/david-hores-portfolio/realisations/:id"
+                        path="/oc-p8-portfolio/realisations/:id"
                         element={<Project />}
                     />
                     <Route
-                        path="/david-hores-portfolio/parcours"
+                        path="/oc-p8-portfolio/parcours"
                         element={<Career />}
                     />
                     <Route path="*" element={<Error />} />

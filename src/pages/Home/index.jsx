@@ -53,7 +53,7 @@ const Home = () => {
                 tags={["Titre RNCP", "Niveau 5"]}
             />
             <Link
-                to="/david-hores-portfolio/competences"
+                to="/oc-p8-portfolio/competences"
                 className={styles.home__skill}
             >
                 <Skill

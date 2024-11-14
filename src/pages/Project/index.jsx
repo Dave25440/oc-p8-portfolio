@@ -14,7 +14,7 @@ const Project = () => {
     useEffect(() => {
         project
             ? (document.title = `David Horès, Développeur Web - ${project.title} : ${project.subtitle}`)
-            : navigate("/david-hores-portfolio/erreur");
+            : navigate("/oc-p8-portfolio/erreur");
     }, [project, navigate]);
 
     return (

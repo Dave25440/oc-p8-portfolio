@@ -5,11 +5,11 @@ import About from "../About";
 import Footer from "../Footer";
 
 const paths = [
-    "/david-hores-portfolio",
-    "/david-hores-portfolio/realisations",
-    "/david-hores-portfolio/competences",
-    "/david-hores-portfolio/contact",
-    "/david-hores-portfolio/parcours"
+    "/oc-p8-portfolio",
+    "/oc-p8-portfolio/realisations",
+    "/oc-p8-portfolio/competences",
+    "/oc-p8-portfolio/contact",
+    "/oc-p8-portfolio/parcours"
 ];
 
 const pathMatch = (pathname) => paths.includes(pathname);

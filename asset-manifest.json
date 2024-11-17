@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/oc-p8-portfolio/static/css/main.e6072828.css",
-    "main.js": "/oc-p8-portfolio/static/js/main.6dfe12fc.js",
+    "main.css": "/oc-p8-portfolio/static/css/main.c0a87374.css",
+    "main.js": "/oc-p8-portfolio/static/js/main.91787433.js",
     "static/media/openclassrooms_projet_qwenta_presentation.pdf": "/oc-p8-portfolio/static/media/openclassrooms_projet_qwenta_presentation.f318f70d6f00fbe7f3a7.pdf",
     "static/media/openclassrooms_projet_carducci_accueil_large.webp": "/oc-p8-portfolio/static/media/openclassrooms_projet_carducci_accueil_large.3804b84e800c6581cc5c.webp",
     "static/media/openclassrooms_projet_kasa_accueil_large.webp": "/oc-p8-portfolio/static/media/openclassrooms_projet_kasa_accueil_large.b30e66b9976802987d4e.webp",
@@ -21,11 +21,11 @@
     "index.html": "/oc-p8-portfolio/index.html",
     "static/media/mongodb.svg": "/oc-p8-portfolio/static/media/mongodb.ae2edf3f65b69a02469e3f7c27759806.svg",
     "static/media/express.svg": "/oc-p8-portfolio/static/media/express.ab6ec06e862da387491f4459acf5b22b.svg",
-    "main.e6072828.css.map": "/oc-p8-portfolio/static/css/main.e6072828.css.map",
-    "main.6dfe12fc.js.map": "/oc-p8-portfolio/static/js/main.6dfe12fc.js.map"
+    "main.c0a87374.css.map": "/oc-p8-portfolio/static/css/main.c0a87374.css.map",
+    "main.91787433.js.map": "/oc-p8-portfolio/static/js/main.91787433.js.map"
   },
   "entrypoints": [
-    "static/css/main.e6072828.css",
-    "static/js/main.6dfe12fc.js"
+    "static/css/main.c0a87374.css",
+    "static/js/main.91787433.js"
   ]
 }

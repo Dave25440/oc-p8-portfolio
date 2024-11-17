@@ -30,8 +30,6 @@
         margin: auto;
         padding: 0;
         box-shadow: 0 0 0 100vh rgba(0, 0, 0, 0.4);
-        overflow-y: scroll;
-        -webkit-overflow-scrolling: auto;
         animation: fadeIn 0.4s ease;
 
         &::backdrop {
@@ -63,5 +61,10 @@
             right: 10px;
             border-radius: 0 0 10px 10px;
         }
+    }
+
+    &__model {
+        display: flex;
+        width: 100%;
     }
 }
